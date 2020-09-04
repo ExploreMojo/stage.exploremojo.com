@@ -18,7 +18,7 @@ export default function Home() {
       <HeroBase background="ui/images/HeroA_bg.jpg"
                 backdrop1="ui/images/HeroA_backdrop.png">
         <Headline type="huge" metaTitle="Bring your content to life" subTitle="Create production ready rich content and prototypes right in XD">
-          #STAGE Mojo for Adobe XD
+          #STAGE2 Mojo for Adobe XD
         </Headline>
         <Button>pre-register soon</Button>
       </HeroBase>
