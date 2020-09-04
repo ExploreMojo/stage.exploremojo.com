@@ -102,7 +102,7 @@ export default withRouter(class extends React.Component {
           
           <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.css" />          
 
-          <Headline type="h1" subTitle="Access free premium content">Sign up</Headline>
+          <Headline type="h1" subTitle="Access free premium content">Sign up (draft)</Headline>
 
           <Spacer height="100"></Spacer>
 
